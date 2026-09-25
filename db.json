@@ -1,0 +1,190 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Masala Dosa",
+      "category": "Breakfast",
+      "description": "Crispy dosa served with sambar and coconut chutney.",
+      "price": 80,
+      "image": "/images/masala-dosa.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Idli Sambar",
+      "category": "Breakfast",
+      "description": "Soft steamed idlis served with hot sambar and chutney.",
+      "price": 70,
+      "image": "/images/idli-sambar.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Poori Masala",
+      "category": "Breakfast",
+      "description": "Fluffy pooris served with delicious potato masala.",
+      "price": 90,
+      "image": "/images/poori-masala.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Appam with Egg Curry",
+      "category": "Breakfast",
+      "description": "Soft Kerala-style appam served with flavorful egg curry.",
+      "price": 120,
+      "image": "/images/appam-egg-curry.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Chicken Biriyani",
+      "category": "Lunch",
+      "description": "Aromatic rice cooked with tender chicken and special spices.",
+      "price": 180,
+      "image": "/images/chicken-biriyani.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Beef Biriyani",
+      "category": "Lunch",
+      "description": "Flavorful biriyani prepared with tender beef and aromatic spices.",
+      "price": 200,
+      "image": "/images/beef-biriyani.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Chicken Fried Rice",
+      "category": "Lunch",
+      "description": "Fried rice with chicken, vegetables and special sauces.",
+      "price": 160,
+      "image": "/images/chicken-fried-rice.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Vegetable Meals",
+      "category": "Lunch",
+      "description": "Traditional vegetarian meal served with rice and side dishes.",
+      "price": 140,
+      "image": "/images/vegetable-meals.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Chicken Curry with Porotta",
+      "category": "Dinner",
+      "description": "Spicy chicken curry served with soft Kerala porotta.",
+      "price": 170,
+      "image": "/images/chicken-curry-porotta.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Butter Chicken",
+      "category": "Dinner",
+      "description": "Tender chicken cooked in a creamy tomato-based gravy.",
+      "price": 220,
+      "image": "/images/butter-chicken.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Chicken Noodles",
+      "category": "Dinner",
+      "description": "Stir-fried noodles with chicken and fresh vegetables.",
+      "price": 150,
+      "image": "/images/chicken-noodles.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Porotta",
+      "category": "Dinner",
+      "description": "Soft and layered Kerala-style flatbread.",
+      "price": 15,
+      "image": "/images/porotta.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Chicken 65",
+      "category": "Snacks",
+      "description": "Crispy and spicy fried chicken pieces.",
+      "price": 150,
+      "image": "/images/chicken-65.jpg"
+    },
+    {
+      "id": "14",
+      "name": "French Fries",
+      "category": "Snacks",
+      "description": "Crispy golden potato fries served with a dip.",
+      "price": 100,
+      "image": "/images/french-fries.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Chicken Samosa",
+      "category": "Snacks",
+      "description": "Crispy pastry filled with seasoned chicken.",
+      "price": 60,
+      "image": "/images/chicken-samosa.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Chocolate Cake",
+      "category": "Desserts",
+      "description": "Soft and rich chocolate cake.",
+      "price": 90,
+      "image": "/images/chocolate-cake.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "description": "Soft sweet dumplings served in sugar syrup.",
+      "price": 70,
+      "image": "/images/gulab-jamun.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Ice Cream",
+      "category": "Desserts",
+      "description": "Creamy and refreshing ice cream.",
+      "price": 70,
+      "image": "/images/ice-cream.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Fresh Lime",
+      "category": "Beverages",
+      "description": "Refreshing fresh lime juice.",
+      "price": 50,
+      "image": "/images/fresh-lime.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Mango Juice",
+      "category": "Beverages",
+      "description": "Fresh and refreshing mango juice.",
+      "price": 80,
+      "image": "/images/mango-juice.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Cold Coffee",
+      "category": "Beverages",
+      "description": "Chilled creamy coffee served with ice.",
+      "price": 100,
+      "image": "/images/cold-coffee.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Appam with Egg Curry",
+      "image": "/images/appam-egg-curry.jpg",
+      "price": 120,
+      "quantity": 1,
+      "id": "ksWvDg8Y9qg"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Fathima Nasna",
+      "email": "fathimanasna@gmail.com",
+      "message": "Thank you, your food is amazing and delivery is also cazy amazing",
+      "id": "ts01lEYVnHk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
